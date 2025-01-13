@@ -20,10 +20,9 @@ Este projeto implementa um sistema de **Perguntas e Respostas** utilizando vetor
 ### 🔧 Instalação  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/DamiaoNetto/langchain-retrieval-qa
 
-   Instale as dependências:
+
    
 2. Instale as dependencias:  
 pip install -r requirements.txt
